@@ -105,8 +105,5 @@ W aplikacji możesz:
 
 ---
 
-## Kontakt
-
-Projekt stworzony przez [Twoje Imię i Nazwisko].
 
 ---
